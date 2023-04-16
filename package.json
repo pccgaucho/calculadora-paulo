@@ -1,0 +1,23 @@
+{
+  "name": "calculadora-paulo",
+  "version": "1.0.0",
+  "description": "Exercício para treinar Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pccgaucho/calculadora-paulo.git"
+  },
+  "author": "Paulo Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pccgaucho/calculadora-paulo/issues"
+  },
+  "homepage": "https://github.com/pccgaucho/calculadora-paulo#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
